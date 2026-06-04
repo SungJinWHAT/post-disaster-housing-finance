@@ -1,7 +1,7 @@
 ---
 name: StellarX Philippines Submission
 about: Submission issue for StellarX Philippines judges
-title: "Team #SungJinwhat - Post Disaster Housing Finance"
+title: "Team #SungJinWHAT - Post Disaster Housing Finance"
 labels: "stellarx, submission"
 assignees: ""
 ---
@@ -22,7 +22,7 @@ After typhoons, floods, and earthquakes, housing aid can move through slow and o
 The app uses Stellar testnet accounts through Freighter, Stellar SDK RPC/Horizon clients, Soroban smart contracts for verifiable state, Stellar asset/SAC-ready payment configuration, and an x402-style payment quote route. It also includes a disclosed OpenZeppelin Relayer integration profile: The app includes an OpenZeppelin Relayer profile so disaster beneficiaries can be supported with gasless transaction submission when the relayer API key is configured.
 
 ## GitHub Repository
-https://github.com/sungj8436-create/post-disaster-housing-finance
+https://github.com/SungJinWHAT/post-disaster-housing-finance
 
 ## Network & Deployment
 - Network: testnet
@@ -30,7 +30,7 @@ https://github.com/sungj8436-create/post-disaster-housing-finance
 - Contract IDs / asset issuers (if any): Not deployed yet. Set CONTRACT_ID after Stellar testnet deployment.
 
 ## Team
-- SungJinwhat - @sungj8436-create
+- SungJinWHAT - @SungJinWHAT
 
 ## Novelty Note
 This is original StellarX Philippines work using open-source Stellar SDKs, Soroban, AI-assisted development, and the disclosed OpenZeppelin Relayer ecosystem integration profile. It is not a copied team project or a barely modified template.
