@@ -73,13 +73,13 @@ stellar keys generate --global alice --network testnet --fund
 This is original hackathon work for StellarX Philippines. It uses an original project concept, custom UI, local full-stack scaffolding, and a project-specific Soroban contract structure. Open-source Stellar SDKs, starter patterns, AI coding assistance, and the OpenZeppelin Relayer integration profile are disclosed because they are allowed and encouraged by the submission guideline. This repo is not a copied team project, not a pre-existing product submission, and not a barely modified example repo.
 
 ## Team
-- Pixeeee - @sungj8436-create
+- SungJinwhat - @sungj8436-create
 
 ## Submission Issue
 Use `.github/ISSUE_TEMPLATE/stellarx-submission.md` to open the required StellarX submission issue. Suggested title:
 
 ```text
-Team #Pixeeee - Post Disaster Housing Finance
+Team #SungJinwhat - Post Disaster Housing Finance
 ```
 
 ## License

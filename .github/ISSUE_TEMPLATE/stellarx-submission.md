@@ -1,7 +1,7 @@
 ---
 name: StellarX Philippines Submission
 about: Submission issue for StellarX Philippines judges
-title: "Team #Pixeeee - Post Disaster Housing Finance"
+title: "Team #SungJinwhat - Post Disaster Housing Finance"
 labels: "stellarx, submission"
 assignees: ""
 ---
@@ -30,7 +30,7 @@ https://github.com/sungj8436-create/post-disaster-housing-finance
 - Contract IDs / asset issuers (if any): Not deployed yet. Set CONTRACT_ID after Stellar testnet deployment.
 
 ## Team
-- Pixeeee - @sungj8436-create
+- SungJinwhat - @sungj8436-create
 
 ## Novelty Note
 This is original StellarX Philippines work using open-source Stellar SDKs, Soroban, AI-assisted development, and the disclosed OpenZeppelin Relayer ecosystem integration profile. It is not a copied team project or a barely modified template.
