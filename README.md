@@ -45,6 +45,9 @@ npm run dev
 
 Frontend defaults to Vite and the backend defaults to port 8787. Copy `.env.example` values into local environment files before connecting to deployed contracts.
 
+## StellarX Dev Setup
+Read `docs/dev-setup.md` before deployment. It includes the public Stellar testnet RPC, Friendbot, USDC/XLM SAC addresses, Soroswap and Blend testnet contracts, asset issuer notes, Freighter gotchas, Soroban simulation requirements, and transaction finality checklist.
+
 ## Contract
 
 ```bash
