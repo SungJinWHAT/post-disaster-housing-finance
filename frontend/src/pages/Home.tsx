@@ -1,6 +1,6 @@
 import { ArrowUpRight } from "lucide-react";
 
-import { PROJECT } from "../lib/constants";
+import { ECOSYSTEM_INTEGRATION, PROJECT } from "../lib/constants";
 
 interface Props {
   onStart: () => void;
@@ -17,6 +17,11 @@ export default function Home({ onStart }: Props) {
       <div>
         <h1>{PROJECT.name}</h1>
         <p>{PROJECT.mission}</p>
+        <div className="integration-strip">
+          <span>Allowed ecosystem integration</span>
+          <strong>{ECOSYSTEM_INTEGRATION.name}</strong>
+          <p>{ECOSYSTEM_INTEGRATION.useCase}</p>
+        </div>
         <button onClick={onStart}>
           <ArrowUpRight size={18} />
           {PROJECT.action}

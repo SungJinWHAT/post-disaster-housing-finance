@@ -19,6 +19,13 @@ export const PROJECT = {
   "pattern": "rebuild-map"
 } as const;
 
+export const ECOSYSTEM_INTEGRATION = {
+  "name": "OpenZeppelin Relayer",
+  "kind": "Fee-sponsored Stellar transactions",
+  "url": "https://docs.openzeppelin.com/relayer",
+  "useCase": "The app includes an OpenZeppelin Relayer profile so disaster beneficiaries can be supported with gasless transaction submission when the relayer API key is configured."
+} as const;
+
 export const API_URL = import.meta.env.VITE_API_URL || "";
 export const STELLAR_NETWORK = import.meta.env.VITE_STELLAR_NETWORK || "stellar:testnet";
 export const CONTRACT_ID = import.meta.env.VITE_CONTRACT_ID || "YOUR_CONTRACT_ID";
